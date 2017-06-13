@@ -1,0 +1,85 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="buttonStyle">@style/AppTheme.Button</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="buttonStyle">@style/AppTheme.Button</item>
+    </style>
+
+    <style name="AppTheme.EditText" parent="Base.Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/et_background</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minHeight">@dimen/button_height</item>
+    </style>
+
+    <style name="AppTheme.Button.BlueAlpha" parent="Base.Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/brown</item>
+    </style>
+
+    <style name="AppTheme.Button" parent="Base.Widget.AppCompat.Button">
+        <item name="android:textAppearance">@style/AppTheme.TextAppearance.White.s16</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:minHeight">@dimen/button_height</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Black" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Black.s14" parent="AppTheme.TextAppearance.Black">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Black.s16" parent="AppTheme.TextAppearance.Black">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Black.s18" parent="AppTheme.TextAppearance.Black">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Gray" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/alpha_gray</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Gray.s16" parent="AppTheme.TextAppearance.Gray">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Gray.s18" parent="AppTheme.TextAppearance.Gray">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Gray.Bold.s18" parent="AppTheme.TextAppearance.Gray.s18">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.White" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.White.s24" parent="AppTheme.TextAppearance.White">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.White.s16" parent="AppTheme.TextAppearance.White">
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
