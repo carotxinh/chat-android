@@ -12,7 +12,7 @@
 	Alternatively use the "gradlew build" command to build the project directly.
 
 # Prerequisites
-	You must install Android Studio and JDK to install this sample
+	You must install Android Studio and JDK to run this sample
 
 # Installing
 	Download and install Android Studio and JDK 8 at : 
@@ -29,6 +29,6 @@
 	Michael Unima
 
 # License
-	Copyright 2017, DemoChat.
+	Copyright 2017 Unima Company, DemoChat.
 	All rights reserved.
 	
