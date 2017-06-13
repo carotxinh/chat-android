@@ -2,9 +2,10 @@
 	DemoChat
 	
 # Getting Started
-	Clone the Repository
 	This sample use the Gradle build system.
 	First download the sample by cloning this repository or downloading an archived snapshot.
+	
+	Clone the Repository : 
 	https://michael_unima@bitbucket.org/unimateam/chat-android.git
 
 	In Android Studio, use the "Import non-Android Studio project" or "Import Project" option. Next select one of the sample directories that you downloaded from this repository. If prompted for a gradle configuration accept the default settings.
