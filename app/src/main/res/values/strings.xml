@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DemoChat</string>
+
+    <!--title-->
+    <string name="title_sign_up">Sign up</string>
+    <string name="title_sign_in">Sign in</string>
+    <string name="title_home">Home</string>
+
+    <!--menu-->
+    <string name="sign_out">Sign out</string>
+
+    <!--sign up-->
+    <string name="user_name">User Name</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+
+    <!--chat-->
+    <string name="message">message</string>
+    <string name="send">send</string>
+
+    <!--message-->
+    <string name="message_sign_up_success">Sign up successfully.</string>
+    <string name="message_field_invalid">Field is invalid.</string>
+    <string name="message_please_wait">Please wait&#8230;</string>
+</resources>

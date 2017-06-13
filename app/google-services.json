@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "85423541422",
+    "firebase_url": "https://fir-chat-53dbf.firebaseio.com",
+    "project_id": "fir-chat-53dbf",
+    "storage_bucket": "fir-chat-53dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85423541422:android:f63e312766342724",
+        "android_client_info": {
+          "package_name": "vn.unima.demoapps.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85423541422-ucsamrq0lv8vdhv45nu71uo6cvc3hsfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDmb3Avtj0LT8ADz3TOogWDuSMESwROM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
