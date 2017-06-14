@@ -18,7 +18,7 @@ https://michael_unima@bitbucket.org/unimateam/chat-android.git
 - In Android Studio, use the "Import non-Android Studio project" or "Import Project" option. Next select one of the sample directories that you downloaded from this repository. If prompted for a gradle configuration accept the default settings.
 Alternatively use the "gradlew build" command to build the project directly.
 
----
+--- 
 
 ## Prerequisites
 You must install Android Studio and JDK to run this sample
