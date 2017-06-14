@@ -4,7 +4,7 @@ DemoChat
 ---
 
 ## Photos
-![sign-up.png](https://bitbucket.org/repo/XX5LpgB/images/163470721-sign-up.png)       ![chat.png](https://bitbucket.org/repo/XX5LpgB/images/4054244867-chat.png)
+![sign-up.png](https://bitbucket.org/repo/XX5LpgB/images/163470721-sign-up.png)  ![chat.png](https://bitbucket.org/repo/XX5LpgB/images/4054244867-chat.png)
 
 ---
 
