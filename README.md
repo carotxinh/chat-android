@@ -1,6 +1,6 @@
 # Project Title
 	DemoChat
-	![sign-up.png](https://bitbucket.org/repo/XX5LpgB/images/2687765261-sign-up.png)
+![sign-up.png](https://bitbucket.org/repo/XX5LpgB/images/2687765261-sign-up.png)
 ![chat.png](https://bitbucket.org/repo/XX5LpgB/images/3304812558-chat.png)
 # Getting Started
 	This sample use the Gradle build system.
