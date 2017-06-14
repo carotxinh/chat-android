@@ -1,8 +1,6 @@
-## Project Title
+# Project Title
 	DemoChat
-        ![sign-up.png](https://bitbucket.org/repo/XX5LpgB/images/590175536-sign-up.png)
-	![chat.png](https://bitbucket.org/repo/XX5LpgB/images/4166816611-chat.png)
-      
+	![sign-up.png](https://bitbucket.org/repo/XX5LpgB/images/2687765261-sign-up.png)
 # Getting Started
 	This sample use the Gradle build system.
 	First download the sample by cloning this repository or downloading an archived snapshot.
